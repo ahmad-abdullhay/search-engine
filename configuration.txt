@@ -1,0 +1,16 @@
+CISI
+C:/Users/Moham/Documents/python projects/IR_Project_datasets/CISI/CISI.ALL
+C:/Users/Moham/Documents/python projects/IR_Project_datasets/CISI/CISI.QRY
+C:/Users/Moham/Documents/python projects/IR_Project_datasets/CISI/CISI.REL
+
+cacm
+C:/Users/Moham/Documents/python projects/IR_Project_datasets/cacm/cacm.ALL
+C:/Users/Moham/Documents/python projects/IR_Project_datasets/cacm/query.text
+C:/Users/Moham/Documents/python projects/IR_Project_datasets/cacm/qrels.text
+
+
+
+
+
+
+
